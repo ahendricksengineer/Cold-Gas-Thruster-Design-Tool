@@ -1,5 +1,13 @@
 # Cold-Gas-Thruster-Design-Tool
 
+## Example Visualizations
+
+![Nozzle Diagram](Images/NozzleDiagram.png)
+
+![Thrust vs Pressure](Images/Thrust_vs_Pressure.png)
+
+![Throat Sweep](Images/Throat_Sweep.png)
+
 ## Overview
 
 The Cold Gas Thruster Performance Tool is a MATLAB-based analytical application developed to evaluate the performance of conceptual cold gas propulsion systems using first-principles compressible flow theory.
