@@ -1,5 +1,4 @@
 # Cold-Gas-Thruster-Design-Tool
-# Cold Gas Thruster Performance Tool
 
 ## Overview
 
